@@ -1,3 +1,5 @@
+---\ntitle: Privacy Policy\n---
+
 # Privacy Policy for Snoop
 
 **Effective Date:** July 1, 2026
