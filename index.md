@@ -1,13 +1,13 @@
-# Privacy Policy for Snoop
+# Privacy Policy for Nabb
 
 **Effective Date:** July 1, 2026
 **Last Updated:** July 1, 2026
 
 ## 1. Introduction
 
-Snoop ("we," "our," or "us") is an intelligent product matching and price comparison application. This Privacy Policy explains how we collect, use, disclose, and protect your personal information when you use the Snoop mobile application ("App").
+Nabb ("we," "our," or "us") is an intelligent product matching and price comparison application. This Privacy Policy explains how we collect, use, disclose, and protect your personal information when you use the Nabb mobile application ("App").
 
-By using Snoop, you agree to the collection and use of information in accordance with this policy.
+By using Nabb, you agree to the collection and use of information in accordance with this policy.
 
 ## 2. Information We Collect
 
@@ -74,7 +74,7 @@ Despite these measures, no method of transmission over the internet or method of
 
 ## 7. Children's Privacy
 
-Snoop is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe we have inadvertently collected information from a child, please contact us and we will delete it promptly.
+Nabb is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe we have inadvertently collected information from a child, please contact us and we will delete it promptly.
 
 ## 8. Your Rights and Choices
 
